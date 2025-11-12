@@ -1,0 +1,21 @@
+.header-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+}
+.header-menu {
+  width: 50%;
+}
+
+.user-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.user-name-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}

@@ -1,0 +1,15 @@
+#main-page {
+  height: 100%;
+  padding: 90px;
+}
+
+.description-container,
+.articles-container {
+  margin-bottom: 20px;
+}
+
+.statistic-container {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
