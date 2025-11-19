@@ -19,6 +19,8 @@ function UserPage(){
                         <React.Fragment key={left}>
                             <Typography.Text>{left}</Typography.Text>
                             <Typography.Text>{right}</Typography.Text>
+                            <Typography.Text> </Typography.Text>
+                            <Typography.Text> </Typography.Text>
                         </React.Fragment>))}
                 </div>
             </div>
