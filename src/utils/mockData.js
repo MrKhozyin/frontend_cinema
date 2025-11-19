@@ -59,3 +59,10 @@ export const moviesData = [
     year: "2024",
   },
 ];
+
+export const userData = {
+  "имя": "User",
+  "почта": "user@mail.com",
+  "роль": 'user',
+  "любимые жанры": ['драма', 'боевик', 'фантастика'].join(", ")
+}

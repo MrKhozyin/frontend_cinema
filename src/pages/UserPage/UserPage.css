@@ -1,0 +1,12 @@
+#user-page {
+  height: 100%;
+  padding-left: 70px;
+  padding-right: 24px;
+}
+.container-user-info{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px; 
+    font-size: 18;
+    font-family: monospace;
+}
